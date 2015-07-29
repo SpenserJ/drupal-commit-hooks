@@ -113,7 +113,8 @@ filters_exclude[18]='\.svg$'
 filters_exclude[19]='\.xml$'
 
 # Additional excludes specific to this project
-# filters_exclude[15]=''
+filters_exclude[20]='\.s?css$'
+filters_exclude[21]='\.sass$'
 
 # Join filters_include array into a single string for grep -e
 sep="\\|"
